@@ -1,0 +1,5 @@
+Bartosz Okoński IO III/4
+Projekt ma na celu przechowywać mój  posiadany zbiór gier, podstawowe informacje o nich i przede wszystkim czy gry które, są ukończone czy nie. 
+Projekt posiada tabele updates która, przechowuje informacje o tym że gra została ukończona oraz że danej tabeli została dodana nowa gra. 
+Posiada również funkcje łączenia dat w jednej komórce. Baza ma również możliwość wyświetlenia gier z danych tabel które po wprowadzeniu wartość „tak” lub „nie” wyświetla takie gry.
+W plikach do projektu również jest wersja zapisana a pliku txt na wypadek gdyby któryś z plików by nie działał bądź wystąpiły by inne problemy.
