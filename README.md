@@ -1,2 +1,0 @@
-# projektbd
-Projekt bazy danych
